@@ -1,0 +1,31 @@
+*{
+    
+    
+    box-sizing: border-box;
+    background-color: #faf3e4;
+
+
+}
+.Main{ 
+    margin: 0% 10%;
+
+}
+    
+
+.img{
+    
+    margin: 0 auto;
+    display: block;
+} 
+.title{
+    text-align: center;
+}
+hr{
+    background-color:  #b2d5e2;
+    height: 3px;
+}
+
+span{
+    color: #db743e;
+} 
+
